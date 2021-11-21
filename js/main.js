@@ -1,3 +1,11 @@
+// =================== baguetteBox slider ================================
+$(function(){
+
+	baguetteBox.run('.gallery');
+
+});
+// =================== yuotube button ================================
+
 function onYouTubeIframeAPIReady() {
 	var iStatus;
 
